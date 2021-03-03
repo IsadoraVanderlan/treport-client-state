@@ -2,7 +2,7 @@
 
 Relatório de Cliente por Estado / Protheus-ADVPL.
 
-Este Gatilho é Dedicados aos Programadores ADVPL.
+Este Programa é Dedicados aos Programadores ADVPL.
 ===
  
 Este Relatório foi retirado de um vídeo no You Tudo do canal Programação AdvPL.
