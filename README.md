@@ -1,6 +1,5 @@
 # Relatório de Cliente por Estado
 
-Relatório de Cliente por Estado / Protheus-ADVPL.
 
 Este Programa é Dedicados aos Programadores ADVPL.
 ===
